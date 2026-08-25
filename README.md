@@ -1,0 +1,2 @@
+# second_frontend
+学习AIWordSpace模式的前端项目Demo
